@@ -1,5 +1,7 @@
 Titel: BA-PROTOTYP-XAI-BACKEND
+
 Ersteller: Sophie Brand (5194731)
+
 Prüfer: Thorsten Teschke
 
 Beschreibung:  Dieser Ordner enthält das Backend des XAI-Prototyps der Bachelorarbeit „Erklärbare KI in mobilen Apps: Verbesserung der Transparenz und Verständlichkeit von KI-Systemen“.
@@ -20,19 +22,24 @@ Benötigte Python-Bibliotheken:
 	pip install pydantic
 
 Ausführung: 
+
 	1. Terminal starten 
+ 
 	2. Zum Ordner "Components" in XAI_Prototyp_Backend_Brand navigieren
 
 	3. Server starten: 
 		Entweder Lokal (bevorzugt): 
 			uvicorn ServerConnectionComponent:app --reload
+   
 		Oder (Über WLAN für Testgeräte): 
 			uvicorn ServerConnectionComponent:app --host 0.0.0.0 --port 8000
 
 	Optional: 
+ 
 		Einzelne Dateien starten: python3 Dateiname.py
 
 Aufbau: 
+
 Das Backend ist in mehrere Komponenten unterteilt: AIRecommendationSystemComponent, 																						CounterfactualExplanationsComponent,
 						LimeExplanationsComponent,
 						ServerConnectionComponent,
