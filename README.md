@@ -14,13 +14,13 @@ Benötigte Python-Bibliotheken:
 
 	pip install matplotlib
 
- 	pip install numpy
+ 	pip install lime
 
-  	pip install pandas
+  	pip install pandas==1.5.3
+
+    	pip install numpy==1.26.4
  
-	pip install lime
- 
-	pip install tensorflow
+	pip install tensorflow==2.19.0
  
 	pip install scikit-learn
  
