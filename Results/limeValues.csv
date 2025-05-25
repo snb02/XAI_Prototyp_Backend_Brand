@@ -1,0 +1,16 @@
+index,feature,importance
+0,Genre_Drama <= 0.00,-0.8080352919725636
+0,Topic_Spannend > 0.00,-0.4658358724854886
+0,Topic_Phantasievoll <= 0.00,0.45565093410275537
+0,Genre_Action > 0.00,0.4542335545801169
+0,0.00 < Typ_Film <= 1.00,-0.281792753683108
+1,0.00 < Genre_Drama <= 1.00,0.8102641342394765
+1,Genre_Action <= 0.00,-0.4669803667274695
+1,Topic_Spannend <= 0.00,0.45593659985376517
+1,Topic_Phantasievoll <= 0.00,0.42964617187802917
+1,Genre_Animation <= 0.00,-0.32581985656951723
+2,Genre_Drama <= 0.00,-0.8387131490742594
+2,Topic_Phantasievoll <= 0.00,0.4607140229316784
+2,Genre_Action <= 0.00,-0.4525591842438381
+2,Topic_Spannend <= 0.00,0.43833484941253537
+2,Genre_Animation <= 0.00,-0.3272762953218595
