@@ -11,15 +11,25 @@ Voraussetzung: Python https://www.python.org/
   		(Ich nutze Python 3.9.7)
 
 Benötigte Python-Bibliotheken:
+
 	pip install matplotlib
+
+ 	pip install numpy
+
+  	pip install pandas
+ 
 	pip install lime
-	pip install pandas
+ 
 	pip install tensorflow
-	pip install numpy
+ 
 	pip install scikit-learn
+ 
 	pip install fastapi
+ 
 	pip install dice-ml
+ 
 	pip install uvicorn
+ 
 	pip install pydantic
 
 Ausführung: 
