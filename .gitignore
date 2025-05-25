@@ -1,0 +1,3 @@
+# Python-spezifisch
+__pycache__/
+*.pyc
