@@ -6,8 +6,9 @@ Prüfer: Thorsten Teschke
 
 Beschreibung:  Dieser Ordner enthält das Backend des XAI-Prototyps der Bachelorarbeit „Erklärbare KI in mobilen Apps: Verbesserung der Transparenz und Verständlichkeit von KI-Systemen“.
 
-Voraussetzung: Python https://www.python.org/
+Voraussetzung: Python https://www.python.org/ 
 		Version: min. 3.8 max.3.11.0
+  		(Ich nutze Python 3.9.7)
 
 Benötigte Python-Bibliotheken:
 	pip install matplotlib
