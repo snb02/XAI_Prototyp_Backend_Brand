@@ -8,7 +8,6 @@ Beschreibung:  Dieser Ordner enthält das Backend des XAI-Prototyps der Bachelor
 
 Voraussetzung: Python https://www.python.org/ 
 		Version: min. 3.8 max.3.11.0
-  		(Ich nutze Python 3.9.7)
 
 Benötigte Python-Bibliotheken:
 
@@ -18,9 +17,9 @@ Benötigte Python-Bibliotheken:
 
   	pip install pandas==1.5.3
 
-    pip install numpy==1.26.4
+    	pip install numpy==1.26.4
  
-	pip install tensorflow==2.19.0
+	pip install "tensorflow>=2.16.1,<=2.19.0"
  
 	pip install scikit-learn
  
@@ -31,6 +30,8 @@ Benötigte Python-Bibliotheken:
 	pip install uvicorn
  
 	pip install pydantic
+
+ 	Meine verwendeten Versionen (Python : 3.9.7 & Tensorflow : 2.16.1, Numpy = 1.26.4, Pandas = 1.5.3)
 
 Ausführung: 
 
