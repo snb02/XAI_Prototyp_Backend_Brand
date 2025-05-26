@@ -31,7 +31,7 @@ Benötigte Python-Bibliotheken:
  
 	pip install pydantic
 
- 	Meine verwendeten Versionen (Python : 3.9.7 & Tensorflow : 2.16.1, Numpy = 1.26.4, Pandas = 1.5.3)
+ 	Meine verwendeten Versionen (Python : 3.9.7, Tensorflow : 2.16.1, Numpy = 1.26.4, Pandas = 1.5.3)
 
 Ausführung: 
 
