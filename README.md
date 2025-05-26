@@ -17,7 +17,7 @@ Benötigte Python-Bibliotheken:
 
   	pip install pandas==1.5.3
 
-    	pip install numpy==1.26.4
+    pip install numpy==1.26.4
  
 	pip install "tensorflow>=2.16.1,<=2.19.0"
  
